@@ -1,0 +1,15 @@
+{
+    "snippets" : [
+        {
+            "name": "np, pd, plt, sns",
+            "code": [
+                "import numpy as np",
+                "import pandas as pd",
+                "import matplotlib.pyplot as plt",
+                "import seaborn as sns",
+                "plt.style.use('fivethirtyeight')",
+                "plt.rcParams['figure.figsize'] = (18, 10)"
+            ]
+        }
+    ]
+}
